@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 一个想要成为业余码农的国际关系业余研究者
+## 大饼是信仰
+## 区块链改变未来
 
-You can use the [editor on GitHub](https://github.com/Zheng-Shilin/shilin-site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+虽然内心戏丰富却表面呆滞的人，终于也想要公开表达一些想法，所以开始尝试写作。内容主要为以下几个方面，GitHub是所有文章备份，文章会分发到其他平台上噢。
+* 比特币
+* 区块链
+* 产品设计与思考
+* 国际关系
+* 战争史
+* 人生碎碎念
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zheng-Shilin/shilin-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Twitter](https://twitter.com/CryptoShilin) |  [知乎](https://www.zhihu.com/people/yin-14-47)  |  [豆瓣](https://www.douban.com/people/qilinruizetong/) | [Medium](https://medium.com/@zhengshilin)
