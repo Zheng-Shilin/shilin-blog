@@ -9,4 +9,4 @@
 * 战争史
 * 人生碎碎念
 
-[Twitter](https://twitter.com/CryptoShilin) |  [知乎](https://www.zhihu.com/people/yin-14-47)  |  [豆瓣](https://www.douban.com/people/qilinruizetong/) | [Medium](https://medium.com/@zhengshilin)
+[Twitter](https://twitter.com/CryptoShilin) |  [知乎](https://www.zhihu.com/people/yin-14-47)  |  [Medium](https://medium.com/@zhengshilin)
