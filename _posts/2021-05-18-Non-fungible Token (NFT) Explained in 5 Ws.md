@@ -1,8 +1,9 @@
-# Non-fungible Token (NFT) Explained in 5 Ws
+----
+title: Non-fungible Token (NFT) Explained in 5 Ws
+date: 2021-05-18
+----
 
-### Forbole Learn Series
-
-In this series, we are going to try to explain some blockchain/crypto concepts and terms in simple words, aka non-tech friendly 😉. 
+I am going to try to explain some blockchain/crypto concepts and terms in simple words, aka non-tech friendly 😉. 
 
 ------
 
@@ -44,7 +45,4 @@ You can also track NFT trading and projects on this [website: NonFungible.com](h
 
 ------
 
-That's all for NFTs in our first run. See you in the next post. In the mean time, keep Forbole in your thoughts: 
-
-[**Telegram**](https://t.me/forbole) **|**[ **Twitter**](https://twitter.com/forbole) **|**[ **Website**](https://www.forbole.com/) **|**[ **GitHub**](https://github.com/forbole)
-
+That's all for NFTs in my first run. See you in the next post. 
